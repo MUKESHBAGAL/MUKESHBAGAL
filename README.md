@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshbagal&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshbagal" /> </p>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshbagal" alt="mukeshbagal" /></a> </p>
 
 - 📫 How to reach me **2022bit039@sggs.ac.in**
